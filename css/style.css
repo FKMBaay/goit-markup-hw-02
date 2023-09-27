@@ -1,19 +1,49 @@
+:root {
 
-.logo{
-    text-decoration: none;
-    color: var(--NAVY-BLUE, #2E2F42);
+    font-family: "roboto", sans-serif
+}
 
+
+
+.logo span{
+    color: #4d5ad5
     
 }
-.logo span{
-    color: var(--IRIS, #4D5AE5);
+.logo {
+   text-decoration: none;
+   color: #2E2F42;
+
+}
+h2 {
+    color: white;
+    text-align: center;
+
+
+}
+button {
+    color: white;
+    background-color: #4D5AE5;
 
 }
 
-.services{
+.effective {
+    background-color:#2E2F42;
+}
+.footer {
     background-color: #2E2F42;
-   
 }
-.h1{
-    font-size: 200px;
+
+.logo2 span{
+    color: #4d5ad5
+    
+}
+.logo2 {
+   text-decoration: none;
+   color: #F4F4FD;
+}
+footer {
+    background-color: #2E2F42;
+}
+footer. p {
+    text-color: white
 }

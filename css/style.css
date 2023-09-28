@@ -1,49 +1,94 @@
-:root {
+.logo span {
+    font-family: raleway, sans serif;
+    color: #4D5AE5;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
 
-    font-family: "roboto", sans-serif
-}
-
-
-
-.logo span{
-    color: #4d5ad5
-    
 }
 .logo {
-   text-decoration: none;
-   color: #2E2F42;
+    color: #2E2F42;
+    font-family: Raleway, sans serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 21px; /* 116.667% */
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
 
+}
+a {
+    text-decoration: none;
+}
+.effective {
+    background-color: #2E2F42;
 }
 h2 {
     color: white;
     text-align: center;
-
-
+    font-size: 56px;
+    font-family: roboto, sans serif;
+    font-style: normal;
 }
 button {
-    color: white;
-    background-color: #4D5AE5;
-
+    border-radius: 4px;
+    background: #4D5AE5;
+    border: none;
 }
-
-.effective {
-    background-color:#2E2F42;
-}
-.footer {
-    background-color: #2E2F42;
-}
-
-.logo2 span{
-    color: #4d5ad5
+.strat {
+    font-family: roboto, sans serif;
+    font-style: normal;
     
 }
-.logo2 {
-   text-decoration: none;
-   color: #F4F4FD;
+h3 {
+    color: #2E2F42;
+    font-family: roboto, sans serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: .4px;
+
+}
+.doing {
+    color: #2E2F42;
+    font-family: roboto, sans serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+}
+.team {
+    color: #2E2F42;
+    font-family: roboto, sans serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
 }
 footer {
     background-color: #2E2F42;
+
 }
-footer. p {
-    text-color: white
+.logo2 span {
+    color: #4D5AE5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.logo2 {
+    color: white;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.footp {
+    color: white;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
 }

@@ -17,8 +17,13 @@
     text-transform: uppercase;
 
 }
+head:hover {
+    color: rgb(129, 5, 102);
+  
+}
 a {
     text-decoration: none;
+    
 }
 .effective {
     background-color: #2E2F42;
@@ -35,6 +40,12 @@ button {
     border-radius: 4px;
     background: #4D5AE5;
     border: none;
+    cursor: pointer;   
+}
+button:hover {
+    color:blue;
+    background-color: aqua;
+   
 }
 .strat {
     font-family: roboto, sans serif;

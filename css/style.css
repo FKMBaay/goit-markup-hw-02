@@ -6,6 +6,9 @@
     font-weight: 800;
 
 }
+.webinfo{
+    flex: content;
+}
 .logo {
     color: #2E2F42;
     font-family: Raleway, sans serif;
